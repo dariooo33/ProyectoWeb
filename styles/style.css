@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(199, 199, 189);
+    margin: auto;
+    align-items: center;
+    justify-items: center;
+}
+h1{
+    color: blue;
+}
+img{
+    max-width: 20%;
+    margin-left: 40%;
+    border: 2px solid black;
+}
